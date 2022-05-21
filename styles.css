@@ -114,7 +114,7 @@
     top: 0;
     left: 0;
     width: 100%;
-    background: var(--main-red);
+    background: #2c3e50;
     box-shadow: 0 2px 0 rgba(0, 0, 0, 0.4);
     z-index: 10;
   }
@@ -159,9 +159,9 @@
   
   .welcome-section > p {
     font-size: 3rem;
-    font-weight: 200;
+    font-weight: 600;
     font-style: italic;
-    color: var(--main-red);
+    color: #363fb9;
   }
   
   /* Projects section */
@@ -244,7 +244,7 @@
   }
   
   .btn-show-all:hover {
-    background: var(--main-red);
+    background: #2c3e50;
   }
   
   .btn-show-all:hover > i {
@@ -312,7 +312,7 @@
     justify-content: space-evenly;
     padding: 2rem;
     background: var(--main-gray);
-    border-top: 4px solid var(--main-red);
+    border-top: 4px solid var(--main-blue);
   }
   
   footer > p {
